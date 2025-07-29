@@ -68,4 +68,3 @@ This Bash script provides a quick summary of essential server performance statis
   * awk '{print $1}': Extracts usernames.
   * sort | uniq -c: Counts how many sessions per user.
 
-**Project URL:** [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
